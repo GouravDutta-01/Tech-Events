@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tech-Events/static/css/main.8dd0c6e2.css",
+    "main.js": "/Tech-Events/static/js/main.9236f66d.js",
+    "static/js/787.8b7f7019.chunk.js": "/Tech-Events/static/js/787.8b7f7019.chunk.js",
+    "index.html": "/Tech-Events/index.html",
+    "main.8dd0c6e2.css.map": "/Tech-Events/static/css/main.8dd0c6e2.css.map",
+    "main.9236f66d.js.map": "/Tech-Events/static/js/main.9236f66d.js.map",
+    "787.8b7f7019.chunk.js.map": "/Tech-Events/static/js/787.8b7f7019.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dd0c6e2.css",
+    "static/js/main.9236f66d.js"
+  ]
+}
